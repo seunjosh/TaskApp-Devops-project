@@ -1,2 +1,2 @@
 NAME          READY   SECRET        AGE
-taskapp-tls   True    taskapp-tls   23m
+taskapp-tls   True    taskapp-tls   50m
