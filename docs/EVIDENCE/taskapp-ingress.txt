@@ -1,2 +1,2 @@
 NAME              CLASS     HOSTS                            ADDRESS                               PORTS     AGE
-taskapp-ingress   traefik   taskapp.3.145.114.141.sslip.io   10.50.1.203,10.50.1.233,10.50.1.248   80, 443   13m
+taskapp-ingress   traefik   taskapp.3.145.114.141.sslip.io   10.50.1.203,10.50.1.233,10.50.1.248   80, 443   20m
