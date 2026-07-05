@@ -1,0 +1,4 @@
+NAME             CPU(cores)   CPU(%)   MEMORY(bytes)   MEMORY(%)   
+ip-10-50-1-203   32m          1%       715Mi           37%         
+ip-10-50-1-233   34m          1%       655Mi           34%         
+ip-10-50-1-248   71m          3%       1229Mi          64%         

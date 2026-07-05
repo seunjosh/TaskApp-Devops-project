@@ -1,0 +1,10 @@
+NAME                                      READY   STATUS      RESTARTS      AGE   IP          NODE             NOMINATED NODE   READINESS GATES
+coredns-5f5694d56b-p2l2c                  1/1     Running     0             74m   10.42.0.4   ip-10-50-1-248   <none>           <none>
+helm-install-traefik-btnhs                0/1     Completed   2 (74m ago)   74m   10.42.0.2   ip-10-50-1-248   <none>           <none>
+helm-install-traefik-crd-v89g7            0/1     Completed   0             74m   10.42.0.3   ip-10-50-1-248   <none>           <none>
+local-path-provisioner-58d557dc48-rd96g   1/1     Running     0             74m   10.42.0.5   ip-10-50-1-248   <none>           <none>
+metrics-server-5cc6bb7579-9mgm4           1/1     Running     0             14m   10.42.0.8   ip-10-50-1-248   <none>           <none>
+svclb-traefik-0183ddea-kghhq              2/2     Running     0             74m   10.42.1.2   ip-10-50-1-233   <none>           <none>
+svclb-traefik-0183ddea-lhxww              2/2     Running     0             74m   10.42.0.7   ip-10-50-1-248   <none>           <none>
+svclb-traefik-0183ddea-nwll4              2/2     Running     0             74m   10.42.2.2   ip-10-50-1-203   <none>           <none>
+traefik-6cd8c7cd89-fcq47                  1/1     Running     0             74m   10.42.1.3   ip-10-50-1-233   <none>           <none>

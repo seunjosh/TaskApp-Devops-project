@@ -1,0 +1,4 @@
+NAME                                      READY   STATUS    RESTARTS   AGE   IP          NODE             NOMINATED NODE   READINESS GATES
+cert-manager-67bd5b55cc-jf2kh             1/1     Running   0          16m   10.42.1.4   ip-10-50-1-233   <none>           <none>
+cert-manager-cainjector-d87ffb78f-jnk27   1/1     Running   0          16m   10.42.2.3   ip-10-50-1-203   <none>           <none>
+cert-manager-webhook-5548dcfb4d-mxtqh     1/1     Running   0          16m   10.42.2.4   ip-10-50-1-203   <none>           <none>
