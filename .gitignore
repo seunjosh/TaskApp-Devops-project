@@ -31,3 +31,7 @@ charts/*.tgz
 *.swp
 .idea/
 .vscode/
+
+# Local generated Ansible/Kubernetes files
+infra/ansible/inventory.ini
+infra/ansible/kubeconfig

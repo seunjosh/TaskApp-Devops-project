@@ -1,0 +1,15 @@
+---
+- name: Update apt cache
+  apt:
+    update_cache: yes
+  become: yes
+
+- name: Install base packages
+  apt:
+    name:
+      - curl
+      - vim
+      - ufw
+      - fail2ban
+    state: present
+  become: yes
