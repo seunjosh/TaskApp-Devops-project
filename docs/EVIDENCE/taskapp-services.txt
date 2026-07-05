@@ -1,0 +1,4 @@
+NAME       TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)    AGE
+backend    ClusterIP   10.43.60.65    <none>        5000/TCP   9m29s
+frontend   ClusterIP   10.43.55.217   <none>        80/TCP     9m29s
+postgres   ClusterIP   10.43.118.69   <none>        5432/TCP   9m29s
