@@ -1,0 +1,2 @@
+NAME                       STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+postgres-data-postgres-0   Bound    pvc-df65448c-7222-45c8-9136-f793f97d009c   5Gi        RWO            local-path     <unset>                 80m
