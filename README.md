@@ -276,7 +276,7 @@ Infrastructure has been shut down after project completion to avoid ongoing cost
 Cloud and DevOps Engineer
 
 - GitHub: [github.com/seunjosh](https://github.com/seunjosh)
-- LinkedIn: [linkedin.com/in/joshua-oyewole-63a3179b](https://linkedin.com/in/joshua-oyewole-63a3179b)
+- LinkedIn: [https://www.linkedin.com/in/joshua-oyewole-ab89b441b/)
 
 ---
 
